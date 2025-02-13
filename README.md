@@ -12,7 +12,7 @@ I'm a Software Engineer passionate about backend development and microservices. 
 - 🌍 Languages: **Albanian & Greek (Native)**, **English (C2)**, **German (A1, learning more)**.
 
 ## Highlighted Projects
-### 🎥 Movie Reservation System
+### 🎥 [Movie Reservation System](https://github.com/ChristosDurro/movie-reservation-system)
 A complete microservices-based application for booking movie tickets, featuring **Spring Boot, Spring Cloud, Spring Security, Stripe API, ReactJS, CSS and MySQL**.
 
 ## What I'm Working On
