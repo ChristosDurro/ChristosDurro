@@ -40,7 +40,6 @@ A complete microservices-based application for booking movie tickets, featuring 
 ## Let's Connect!
 - 📧 Email: **xristosdurros@hotmail.com**
 - 🌟 [LinkedIn](https://www.linkedin.com/in/christos-durro-53b33320a/)
-- 🏰 [GitHub](https://github.com/ChristosDurro)
 
 Thanks for visiting! 🚀
 
