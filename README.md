@@ -16,7 +16,7 @@ I'm a Software Engineer passionate about backend development and microservices. 
 A complete microservices-based application for booking movie tickets, featuring **Spring Boot, Spring Cloud, Spring Security, Stripe API, ReactJS, CSS and MySQL**.
 
 ## What I'm Working On
-- 📈 **Stock Trading App** - Currently designing and developing a stock trading app.
+- 🏥 **Hospital Management System** - Currently designing and developing a hospital management system.
 
 ## Technologies & Tools
 ### Backend
