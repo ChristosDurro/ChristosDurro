@@ -1,12 +1,12 @@
 # Hi, I'm Christos Durro! 👋
 
 ## About Me
-I'm a Software Engineer passionate about backend development and microservices. Originally from Greece, I'm currently based in Munich, but I'm particularly interested in opportunities in Berlin. That said, I'm open to relocation and remote opportunities. I'm actively looking for Software Engineer or Backend Engineer roles, whether as an intern or a full-time junior position.
+I'm a Software Engineer passionate about backend development. I'm based in Athens. That said, I'm open to relocation and remote opportunities. I'm actively looking for Software Engineer or Backend Engineer roles, whether as an intern or a full-time junior position.
 
 ## My Background
 - 🎓 Studied **Information and Computer Engineering** at the **University of West Attica** (did not finish my degree).
 - 🏩 Graduated from **42 Berlin**, a rigorous peer-learning coding school specializing in **C/C++**.
-- 💻 Focused on **Java** and the **Spring Framework**, along with **microservices architecture**.
+- 💻 Focused on  **Javascript**, **NodeJS**, **Java**, **Spring Framework**, along with **microservices architecture**.
 - 📊 Experience with **MySQL** and **MongoDB** databases.
 - 🌐 Frontend skills in **JavaScript, HTML/CSS, ReactJS**.
 - 🌍 Languages: **Albanian & Greek (Native)**, **English (C2)**, **German (A1, learning more)**.
@@ -15,11 +15,10 @@ I'm a Software Engineer passionate about backend development and microservices. 
 ### 🎥 [Movie Reservation System](https://github.com/ChristosDurro/movie-reservation-system)
 A complete microservices-based application for booking movie tickets, featuring **Spring Boot, Spring Cloud, Spring Security, Stripe API, ReactJS, CSS and MySQL**.
 
-## What I'm Working On
-- 🏥 **Hospital Management System** - Currently designing and developing a hospital management system.
-
 ## Technologies & Tools
 ### Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
